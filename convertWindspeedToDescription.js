@@ -1,4 +1,4 @@
-//function that **converts** *windspeed* to a *description*
+//function that **converts** windspeed to a *description* using *miles* and *knots*
 
 function convertWindspeedToDescription(miles, knots){
     let description;
